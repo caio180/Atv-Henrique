@@ -10,4 +10,4 @@ while True:
         print("O número é Menor!")
     else:
         break
-print(f"Parabéns, você acertou, o número correto era {numero_secreto}.")
+print(f"Parabéns você acertou, o número correto era {numero_secreto}.")
